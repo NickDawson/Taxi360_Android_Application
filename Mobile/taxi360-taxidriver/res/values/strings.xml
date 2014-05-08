@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">taxi360-taxidriver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ride">RideActivity</string>
+    <string name="title_activity_add_places">AddPlaces</string>
+    <string name="server_ip">http://192.168.237.176:8080/</string>
+</resources>

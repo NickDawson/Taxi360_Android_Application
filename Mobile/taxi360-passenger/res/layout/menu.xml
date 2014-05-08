@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item 
+         Set id, icon and Title for each menu item
+    -->
+    <item android:id="@+id/menu_addplaces"
+          
+          android:title="My Places" />
+    <item android:id="@+id/menu_editprofile"
+          
+          android:title="EditProfile" />
+     <item android:id="@+id/menu_destination"
+          
+          android:title="Add Destination" />
+    <item android:id="@+id/menu_logout"
+          
+          android:title="Logout" />
+    
+    
+</menu>
